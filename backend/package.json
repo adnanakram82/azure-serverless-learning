@@ -1,0 +1,16 @@
+{
+  "name": "speakerapp",
+  "version": "0.0.1",
+  "description": "This is a Serverless Learning App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adnan Akram",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "mongodb": "^3.1.10",
+    "uuid": "^3.3.2"
+  }
+}
