@@ -6,9 +6,9 @@ This is a demo application created to experiment with Serverless Services in Azu
 Front end is a static web application deployed to Blob.
 
 # Back End
-Back end comprise of
- > Azure Functions
- > Blob Storage
- > Event Grid
- > Computer Vision
+Back end comprise of  
+ > Azure Functions  
+ > Blob Storage  
+ > Event Grid  
+ > Computer Vision  
  
